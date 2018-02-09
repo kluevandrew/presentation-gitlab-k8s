@@ -1,5 +1,5 @@
 package main
-# 2018
+
 import (
 	"flag"
 	"net/http"
